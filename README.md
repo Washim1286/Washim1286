@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=washim1286&label=Profile%20views&color=0e75b6&style=flat" alt="washim1286" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Washim1286](https://github.com/Washim1286) 
+- 👨‍💻 View all my projects at [https://github.com/Washim1286](https://github.com/Washim1286) 
 
 - 💬 Ask me about **MERN Stack, Java, DSA**
 
@@ -15,16 +15,20 @@
 
 - ⚡ Fun fact **I am Funny😊**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/washim-akaram-273488295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/washim-akaram-273488295" height="30" width="40" /></a>
   
-<a href="https://www.naukri.com/mnj/dashboard" target="_blank"><img align="center"src="https://static.naukri.com/s/4/100/i/naukri_Logo.png"alt="Naukri"height="30" /></a>
+[![Naukri](https://img.shields.io/badge/Naukri-blue?style=flat)](https://www.naukri.com)
 
-<a href="https://www.hackerrank.com/profile/washimakram1215" target="_blank"><img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg"alt="HackerRank"height="30"width="40" /></a>
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/washimakram1215)
 
 <a href="https://www.leetcode.com/https://leetcode.com/u/washim_akaram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/washim_akaram/" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -45,13 +49,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=washim1286&layout=compact&theme=dark)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=washim1286&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=washim1286&theme=dark)
+---
 
 ### 🐍 Contribution Snake  
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+
